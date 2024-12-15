@@ -51,8 +51,8 @@ A full-stack travel accommodation platform inspired by Airbnb, built with React 
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/wandernest.git
-cd wandernest
+git clone https://github.com/Shreyansh0843/TravelO.git
+cd TravelO
 
 2.Install backend dependencies
 ```bash
