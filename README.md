@@ -2,10 +2,10 @@
     <img src="travelZ.png" alt="WanderNest-homeScreen"/>
 </p>
 <h1 align="center">
-  WanderNest - Your Home Away From Home
+  TravelO - Your Home Away From Home
 </h1>
 
-# WanderNest
+# TravelO
 A full-stack travel accommodation platform inspired by Airbnb, built with React and Express.js, enabling users to discover, book, and manage property stays with features like user authentication, property search, and secure payments.
 
 ## 🚀 Features
